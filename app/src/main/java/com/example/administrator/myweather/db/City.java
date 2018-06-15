@@ -1,5 +1,5 @@
 package com.example.administrator.myweather.db;
-
+import org.litepal.crud.DataSupport;
 /**
  * Created by Administrator on 2018/6/14.
  */
